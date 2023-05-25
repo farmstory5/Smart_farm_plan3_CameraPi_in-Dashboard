@@ -3,7 +3,7 @@
 ## 구성원: 오상우, 윤현호, 박세린, 이병현, 권용만
 
 ### 개요
-<p align="center">
+<p>
 <img src="https://github.com/farmstory5/Smart_farm_plan2_Node-red_dashboard/assets/130550405/610cb3b4-8e1d-4591-8b4d-9f1889a98376">
 </p>
 Node-red 대시보드 ui에 화면 캡처기능을 추가하였습니다.
