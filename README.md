@@ -42,10 +42,10 @@ Arduino Uno, 조도센서
 Raspi 4<br/>
 DHT11 - Vcc: 4_pin 5V / Data: 7_pin (GPIO_4) / Ground: 6_pin<br/>
 LED_Yel - 11_pin (GPIO_17) / Ground: 9_pin<br/>
-LED_Red - 12_pin (GPIO_18) / Ground: 14_pin
-Camera - 카메라용 케이블 소켓
+LED_Red - 12_pin (GPIO_18) / Ground: 14_pin<br/>
+Camera - 카메라용 케이블 소켓<br/>
 <br/>
-Arduino Uno /dev/ttyACM0 (임시)
+Arduino Uno /dev/ttyACM0 (임시)<br/>
 조도센서 - Vcc: Power 5V pin / Out: Analog 0 pin / Ground: Power GND pin
 <br/>
 
