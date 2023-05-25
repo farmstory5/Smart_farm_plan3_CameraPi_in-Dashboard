@@ -8,7 +8,7 @@
 </p>
 Node-red 대시보드 ui에 화면 캡처기능을 추가하였습니다.
 <br/><br/>
-<p align="center">
+<p>
 <img src="https://github.com/farmstory5/Smart_farm_plan2_Node-red_dashboard/assets/130550405/4a7953f9-9a6f-44f1-96bf-2a42aca8bb24">
 </p>
 Node-red 대시보드 ui에 조도센서측정기능을 추가하였습니다.(오류)<br/>
