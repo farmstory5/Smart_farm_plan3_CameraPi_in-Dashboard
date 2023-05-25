@@ -41,7 +41,7 @@ Node-red 대시보드 ui에 조도센서측정기능을 추가하였습니다.(�
 라즈베리파이4 B .ver 임베디드시스템, DHT11 센서, LED 2개, Ras pi용 Camera<br/>
 Arduino Uno, 조도센서
 
-### GPIO 세팅 및 아두이노 세팅
+### GPIO 세팅 및 아두이노(임시)
 Raspi 4<br/>
 DHT11 - Vcc: 4_pin 5V / Data: 7_pin (GPIO_4) / Ground: 6_pin<br/>
 LED_Yel - 11_pin (GPIO_17) / Ground: 9_pin<br/>
