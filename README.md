@@ -61,4 +61,4 @@ Arduino 보드:Uno 포트:/dev/ttyACM0, StandardFirmata 라이브러리 (임시)
 <p align="center">
 <img src="https://github.com/farmstory5/Smart_farm_plan2_Node-red_dashboard/assets/130550405/91432796-efce-4379-813d-2c7d676ca6e5">
 </p>
-https://youtu.be/clq28k0lrsg
+https://www.youtube.com/watch?v=134TiywJLuI
