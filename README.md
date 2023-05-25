@@ -7,13 +7,13 @@
 <img src="https://github.com/farmstory5/Smart_farm_plan2_Node-red_dashboard/assets/130550405/610cb3b4-8e1d-4591-8b4d-9f1889a98376">
 </p>
 Node-red 대시보드 ui에 화면 캡처기능을 추가하였습니다.
-<br/>
+<br/><br/>
 <p align="center">
 <img src="https://github.com/farmstory5/Smart_farm_plan2_Node-red_dashboard/assets/130550405/4a7953f9-9a6f-44f1-96bf-2a42aca8bb24">
 </p>
-Node-red 대시보드 ui에 조도센서측정기능을 추가하였습니다.(오류)
-라즈베리파이와 아두이노 연동시 아두이노 UNO의 포트인 /dev/ttyACM0 이 라즈비안OS 리눅스환경에서 권한이 거부되었습니다.
-추후에 다시 확인하고 고치도록 하겠습니다.
+Node-red 대시보드 ui에 조도센서측정기능을 추가하였습니다.(오류)<br/>
+라즈베리파이와 아두이노 연동시 아두이노 UNO의 포트인 /dev/ttyACM0 이 라즈비안OS 리눅스환경에서 권한이 거부되었습니다.<br/>
+추후에 다시 확인하고 고치도록 하겠습니다.<br/>
 
 ### 블록도
 <p align="center">
