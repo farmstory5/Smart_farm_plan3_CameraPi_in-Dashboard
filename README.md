@@ -13,6 +13,9 @@ Node-red 대시보드 ui에 화면 캡처기능을 추가하였습니다.
 </p>
 Node-red 대시보드 ui에 조도센서측정기능을 추가하였습니다.(오류)<br/>
 라즈베리파이와 아두이노 연동시 아두이노 UNO의 포트인 /dev/ttyACM0 이 라즈비안OS 리눅스환경에서 권한이 거부되었습니다.<br/>
+<p>
+<img src="https://github.com/farmstory5/Smart_farm_plan2_Node-red_dashboard/assets/130550405/7657eb8a-e982-4374-927c-49e9fcd162f4">
+</p>
 아두이노 uno에 연결된 조도센서는 값을 측정하지 않았습니다...<br/>
 추후에 ADC컨버터 MCP3008을 사용하여 라즈베리파이 임베디드시스템에서 동작하도록 개선하겠습니다. <br/>
 
