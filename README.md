@@ -54,7 +54,7 @@ Arduino Uno /dev/ttyACM0 (임시)<br/>
 
 ### 사용한 SW요소들
 Rasberry Pi OS Legacy, Nord-red 프레임워크 개발도구, dashboard 라이브러리<br/>
-Arduino 보드:Uno 포트:/dev/ttyACM0, StandardFirmata 라이브러리 (임시)
+Arduino 보드- Uno 포트 - /dev/ttyACM0, StandardFirmata 라이브러리 (임시)
 <br/>
 
 ### 구현 영상
