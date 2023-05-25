@@ -20,11 +20,6 @@ Node-red 대시보드 ui에 조도센서측정기능을 추가하였습니다.(�
 <img src="https://github.com/farmstory5/Smart_farm_plan2_Node-red_dashboard/assets/130550405/41e9c8b8-eeb3-45cc-9340-8c62cedcd87c">
 </p>
 
-### ER 다이어그램
-<p align="center">
-<img src="https://user-images.githubusercontent.com/61779129/235959271-294b56da-d533-4abd-90dd-867e891e617e.png">
-</p>
-
 ### Node-red FLOW 흐름도
 <p align="center">
 <img src="https://user-images.githubusercontent.com/61779129/235959572-30756b3b-6056-413c-b176-6aad7734f763.png">
