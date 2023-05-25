@@ -17,7 +17,7 @@ Node-red 대시보드 ui에 조도센서측정기능을 추가하였습니다.(�
 
 ### 블록도
 <p align="center">
-<img src="https://user-images.githubusercontent.com/61779129/235959381-9064bf4f-189a-4ad5-9a0b-08d8893906e7.png">
+<img src="https://github.com/farmstory5/Smart_farm_plan2_Node-red_dashboard/assets/130550405/41e9c8b8-eeb3-45cc-9340-8c62cedcd87c">
 </p>
 
 ### ER 다이어그램
